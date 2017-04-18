@@ -3,7 +3,7 @@
 A [curated and annotated list of resources][resources] for learning
 programming and computer science.
 
-  [resources]: https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md
+  [resources]: https://github.com/seoweon/curated-programming-resources/blob/master/resources.md
 
 ## Motivation and goals
 
