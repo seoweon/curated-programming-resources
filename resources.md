@@ -39,7 +39,8 @@ This page is meant to help solve that problem -- to present a **curated** list o
 
 If you know what you want to learn about, great! Jump to that section, start browsing the links, and find something which works for you. 
 
-If you're not sure where to start and which language to learn, check out this [visual roadmap based on what you want to focus on](https://github.com/seoweon/developer-roadmap).
+If you're not sure where to start and which language to learn, check out this [visual roadmap based on what you want to focus on](https://github.com/seoweon/developer-roadmap).        
+Also [this article](https://medium.freecodecamp.com/this-picture-will-change-the-way-you-learn-to-code-557ac1e109bd) gives some explanation and practical tips on how to read documentation, read source code, debug code, and ask for help. 
 
 If you have a basic idea on where you want to start, here are some good beginner languages:
 
