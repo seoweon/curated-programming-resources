@@ -39,10 +39,12 @@ This page is meant to help solve that problem -- to present a **curated** list o
 
 If you know what you want to learn about, great! Jump to that section, start browsing the links, and find something which works for you. 
 
-If you're not sure where to start and which language to learn, some good beginner languages are:
+If you're not sure where to start and which language to learn, check out this [visual roadmap based on what you want to focus on](https://github.com/seoweon/developer-roadmap).
+
+If you have a basic idea on where you want to start, here are some good beginner languages:
 
 - [Python](#python) (general-purpose; scientific and mathematical computing)
-- [Java](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#java) (general-purpose; Android development)
+- [Java _(external link)_](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#java) (general-purpose; Android development)
 - [HTML/CSS/JavaScript](#html-css-and-javascript) (websites and webapps)
 - [Scratch](#scratch) (for younger children)
 
@@ -111,6 +113,15 @@ If you're not sure which version to pick, my recommendation would be to pick the
 
 That said, when working on your own programs, I would always pick Python 3 unless you have good reason to otherwise. The Python community, with the exception of a few holdouts, is moving towards Python 3 and abandoning Python 2.
 
+- Setting up Python:
+    - Continuum's [Anaconda][anaconda-download]   
+      Anaconda is the leading open data science platform powered by Python. The open source version of Anaconda is a high performance distribution of Python and R and includes over 100 of the most popular Python, R and Scala packages for data science. In a nutshell, it's most of the basics you will need to download anyways, so it's easier to just download everything at once to start with. 
+    - iPython's [Jupyter notebook installation](https://jupyter.readthedocs.io/en/latest/install.html#id3) and [how to run it](https://jupyter.readthedocs.io/en/latest/running.html#running)    
+      "As a server-client application, the Jupyter Notebook App allows you to edit and run your notebooks via a web browser. The application can be executed on a PC without Internet access or it can be installed on a remote server, where you can access it through the Internet.   
+      Its two main components are the kernels and a dashboard.    
+      A kernel is a program that runs and introspects the user’s code. The Jupyter Notebook App has a kernel for Python code, but there are also kernels available for other programming languages.   
+      The dashboard of the application not only shows you the notebook documents that you have made and can reopen but can also be used to manage the kernels: you can which ones are running and shut them down if necessary." ([Source](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#WhatIs))
+
 - Online courses: 
     - edx's [Introduction to Computer Science and Programming Using Python][python-mit-intro]  
       The companion book can be [found here][python-mit-intro-book]. The course is designed for beginners, part of a 2-part series, is self-paced, and has an emphasis on computation and data science.
@@ -161,6 +172,7 @@ That said, when working on your own programs, I would always pick Python 3 unles
     - [Pyschools][python-pyschools]  
       Exercises and challenges in Python. Challenges require (free) registration.
    
+  [anaconda-download]: https://www.continuum.io/downloads
   [python-udacity]: https://www.udacity.com/course/ud036
   [python-coursera]: https://www.coursera.org/course/pythonlearn
   [python-mit-intro]: https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0#.VJw5pv-kAA
