@@ -135,6 +135,10 @@ That said, when working on your own programs, I would always pick Python 3 unles
       Requires some prior programming experience; focuses on object-oriented programming.
     - Team Treehouse's [Python course][python-treehouse]  
       Allows a free 14-day trial, but later requires payment.
+- Cheatsheets: 
+    - [Pandas cheatsheet](http://nbviewer.jupyter.org/github/pybokeh/ipython_notebooks/blob/master/pandas/PandasCheatSheet.ipynb) 
+    - [Things in Pandas I wish I'd known](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)
+    - [Python for data analysis](http://nbviewer.jupyter.org/urls/gist.github.com/wesm/4757075/raw/a72d3450ad4924d0e74fb57c9f62d1d895ea4574/PandasTour.ipynb)
 - Interactive resources:
     - [LearnPython][python-learn]  
       An interactive online guide that teaches basic Python.
